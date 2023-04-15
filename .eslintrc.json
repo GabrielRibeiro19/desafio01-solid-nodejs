@@ -10,6 +10,7 @@
     "prettier",
     "plugin:prettier/recommended"
   ],
+  "endOfLine":"auto",
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": 12,
